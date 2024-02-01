@@ -48,17 +48,13 @@
 
 ### **LSTM Autoencoder Based Extreme Rainfall Prediction in Highly Unbalanced Data Using Vector Reconstruction Error**
 
-o Conducted research and developed a novel approach utilizing autoencoder techniques to predict extreme rainfall
-in Kerala.
-o Collaborated with the Advanced Centre for Atmospheric Radar Research, CUSAT, to gather and analyse highly
-unbalanced rainfall data.
-o Employed hyperparameter tuning to optimize the performance of the predictive model.
-o Implemented regularization techniques to prevent overfitting and improve generalization.
-o Devised a custom loss function incorporating mean squared error (MSE) and Kullback-Leibler (KL) divergence
-terms to encourage accurate predictions and sparsity in the model's outputs.
-o Utilized the ROC curve method to determine the optimal threshold for classifying rainfall events.
-o Ensured a more automated and data-driven approach for classification, enhancing the reliability of the
-predictions
+- Conducted research and developed a novel approach utilizing autoencoder techniques to predict extreme rainfallin Kerala.
+- Collaborated with the Advanced Centre for Atmospheric Radar Research, CUSAT, to gather and analyse highlyunbalanced rainfall data.
+- Employed hyperparameter tuning to optimize the performance of the predictive model.
+- Implemented regularization techniques to prevent overfitting and improve generalization.
+- Devised a custom loss function incorporating mean squared error (MSE) and Kullback-Leibler (KL) divergenceterms to encourage accurate predictions and sparsity in the model's outputs.
+- Utilized the ROC curve method to determine the optimal threshold for classifying rainfall events.
+- Ensured a more automated and data-driven approach for classification, enhancing the reliability of thepredictions
 
 ### **Image Caption generator using blip**
 - Developed a functional web application capable of generating captions for user-uploaded images.
