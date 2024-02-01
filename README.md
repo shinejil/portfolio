@@ -20,8 +20,8 @@ St. Michael’s College University of Kerala (May 2017 – Mar 2020)
 
 
 #### To-Let Globe – Lucknow, Uttar Pradesh                                                                                                                     
-####  Data Analyst Intern
-June 2023 – Dec 2023
+####  Data Analyst Intern (June 2023 – Dec 2023)
+
 
 •	Uncovered insights using Python, employing Pandas and NumPy and R for efficient data manipulation.
 •	Leveraged SQL to extract, filter, and aggregate data from databases, supporting decision-making processes.
@@ -32,8 +32,8 @@ June 2023 – Dec 2023
 
 
 #### WISDEMY – Kochi, Kerala                                                                                                                                         
-####  Data Science and Python Instructor (part-time)
-Jan 2023 – May 2023
+####  Data Science and Python Instructor (part-time) (Jan 2023 – May 2023)
+
 
 •	Conducted engaging and interactive classroom sessions, effectively explaining data science topics and programming 
 concepts to students.
