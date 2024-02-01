@@ -75,4 +75,4 @@
 ### **Interactive PowerBI Dashboard for Covid-19 Analysis and Forecasting**
 
 - An interactive dashboard for Covid-19 analysis and prediction of India using Python and    
-- [PowerBI Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiZjYzNWY5M2MtNTg4Zi00ZDNkLTkxZTQtZGYzNTI2ZGY1NzhkIiwidCI6IjE3MmU5YTc5LTFlNTQtNGQxYi05ODQzLWNlYzYwYmNlMDIxYSJ9)
+- [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjYzNWY5M2MtNTg4Zi00ZDNkLTkxZTQtZGYzNTI2ZGY1NzhkIiwidCI6IjE3MmU5YTc5LTFlNTQtNGQxYi05ODQzLWNlYzYwYmNlMDIxYSJ9)
