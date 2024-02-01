@@ -2,7 +2,7 @@
 
 
 ## **EDUCATION/COURSES**
-- Master of Science, Data Science | Cochin University of Science and Technology (Oct 2021 – May 2023) 
+- Master of Science, Data Science | Cochin University of Science and Technology (Oct 2021 – May 2023)  
 - NLP Crash Course | iNeuron (June 2023 – Oct 2023)
 - Masters, Machine Learning and Deep Learning | iNeuron (April 2021 -May 2022)
 - Programming Data Structure and Algorithm using Python | IIT Madras (NPTEL) (Jan 2021 – Mar 2021)
