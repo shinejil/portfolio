@@ -1,6 +1,10 @@
 # DATA ANALYST/ DATA SCIENTIST
 
+
 ### EDUCATION/COURSES
+
+
+
 #### Master of Science - Data Science (CGPA: 9.42)                                                                                              
 Cochin University of Science and Technology (Oct 2021 – May 2023) 
 
@@ -16,7 +20,10 @@ IIT Madras (NPTEL) (Jan 2021 – Mar 2021)
 #### 	Bachelor of vocation - Software Development                                                                                                
 St. Michael’s College University of Kerala (May 2017 – Mar 2020)
 
+
+
 ### PROFESSIONAL EXPERIENCE 
+
 
 
 #### To-Let Globe – Lucknow, Uttar Pradesh                                                                                                                     
@@ -31,8 +38,10 @@ St. Michael’s College University of Kerala (May 2017 – Mar 2020)
 •	Created insightful reports and dashboards using PowerBI and Tablue.
 
 
+
 #### WISDEMY – Kochi, Kerala                                                                                                                                         
 ####  Data Science and Python Instructor (part-time) (Jan 2023 – May 2023)
+
 
 
 •	Conducted engaging and interactive classroom sessions, effectively explaining data science topics and programming 
@@ -43,9 +52,14 @@ techniques using Python.
 •	Implemented effective assessment methods to evaluate student’s progress and knowledge acquisition, providing 
 constructive feedback for improvement
 
+
+
 ### PROJECTS
 
+
+
 #### 	Llama 2-Powered Advanced Medical bot
+
 
 o Led the creation of an intelligent retrieval-based question-answering system tailored for medical queries,
 employing LangChain tools and methodologies.
@@ -62,7 +76,10 @@ ensuring adaptability and usability for users.
 o Demonstrated strong proficiency in Python and utilization of specialized libraries like langchain, Hugging Face,
 FAISS, and Streamlit, empowering the NLP and machine learning aspects of the project.
 
+
+
 #### 	Intelligent Question-Answering System with LangChain using Google Palm LLM
+
 
 o Orchestrated the development of an advanced question-answering system leveraging Google Palm LLM,
 enabling precise responses through contextual comprehension.
@@ -78,7 +95,10 @@ o Demonstrated proficiency in Python, utilizing libraries like langchain, Google
 for NLP and machine learning tasks. Additionally, integrated Streamlit for a user-friendly and interactive
 frontend experience, enhancing the accessibility of the system.
 
+
+
 #### 	LSTM Autoencoder Based Extreme Rainfall Prediction in Highly Unbalanced Data Using Vector Reconstruction Error
+
 
 o Conducted research and developed a novel approach utilizing autoencoder techniques to predict extreme rainfall
 in Kerala.
@@ -92,7 +112,10 @@ o Utilized the ROC curve method to determine the optimal threshold for classifyi
 o Ensured a more automated and data-driven approach for classification, enhancing the reliability of the
 predictions
 
+
+
 #### 	Image Caption generator using blip
+
 
 o Developed a functional web application capable of generating captions for user-uploaded images.
 o Orchestrated the backend setup using Flask, allowing seamless communication between the user interface and
@@ -107,7 +130,9 @@ o Contributed to the frontend design by providing necessary endpoints and functi
 images and their corresponding generated captions.
 
 
+
 #### 	Real-time live face emotion detection 
+
 
 o Developed a real-time face emotion recognition system using deep learning and transfer learning techniques.
 o Utilized computer vision for image recognition and pre-processing to detect facial emotions.
