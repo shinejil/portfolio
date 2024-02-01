@@ -2,11 +2,11 @@
 
 
 ## **EDUCATION/COURSES**
-- Master of Science - Data Science | Cochin University of Science and Technology (Oct 2021 – May 2023)
+- Master of Science, Data Science | Cochin University of Science and Technology (Oct 2021 – May 2023)
 - NLP Crash Course | iNeuron (June 2023 – Oct 2023)
-- Masters - Machine Learning and Deep Learning | iNeuron (April 2021 -May 2022)
+- Masters, Machine Learning and Deep Learning | iNeuron (April 2021 -May 2022)
 - Programming Data Structure and Algorithm using Python | IIT Madras (NPTEL) (Jan 2021 – Mar 2021)
-- Bachelor of vocation - Software Development | St. Michael’s College University of Kerala (May 2017 – Mar 2020)
+- Bachelor of vocation, Software Development | St. Michael’s College University of Kerala (May 2017 – Mar 2020)
                                                                                               
 
 ## **PROFESSIONAL EXPERIENCE** 
@@ -75,4 +75,4 @@
 ### **Interactive PowerBI Dashboard for Covid-19 Analysis and Forecasting**
 
 - An interactive dashboard for Covid-19 analysis and prediction of India using Python and    
-- PowerBI   click here to see the dashboard
+- [PowerBI Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiZjYzNWY5M2MtNTg4Zi00ZDNkLTkxZTQtZGYzNTI2ZGY1NzhkIiwidCI6IjE3MmU5YTc5LTFlNTQtNGQxYi05ODQzLWNlYzYwYmNlMDIxYSJ9)
