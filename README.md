@@ -11,16 +11,16 @@
 
 ## **PROFESSIONAL EXPERIENCE** 
 **Data Analyst Intern @ To-Let Globe – Lucknow, Uttar Pradesh (June 2023 – Dec 2023)**                                                                                                                     
-- Uncovered insights using Python, employing Pandas and NumPy and R for efficient data manipulation.
-- Leveraged SQL to extract, filter, and aggregate data from databases, supporting decision-making processes.
-- Leveraged SQL to extract, filter, and aggregate data from databases, supporting decision-making processes.
-- Proficiently used Advanced Excel for data cleaning, transformation, and organizing data sets for analysis and used python and google scripts to automate sheets.
-- Created impactful visualizations with Matplotlib/Seaborn and synthesized findings into actionable reports.
-- Created insightful reports and dashboards using PowerBI and Tablue.
+- Uncovered insights using Python, employing Pandas and NumPy and R for efficient data manipulation
+- Leveraged SQL to extract, filter, and aggregate data from databases, supporting decision-making processes
+- Leveraged SQL to extract, filter, and aggregate data from databases, supporting decision-making processes
+- Proficiently used Advanced Excel for data cleaning, transformation, and organizing data sets for analysis and used python and google scripts to automate sheets
+- Created impactful visualizations with Matplotlib/Seaborn and synthesized findings into actionable reports
+- Created insightful reports and dashboards using PowerBI and Tablue
 
 **Data Science and Python Instructor @ WISDEMY – Kochi, Kerala (part-time) (Jan 2023 – May 2023)**                                                                                                                           
-- Conducted engaging and interactive classroom sessions, effectively explaining data science topics and programming concepts to students.
-- Developed hands-on exercises, assignments, and projects to provide practical experience in applying data science techniques using Python.
+- Conducted engaging and interactive classroom sessions, effectively explaining data science topics and programming concepts to students
+- Developed hands-on exercises, assignments, and projects to provide practical experience in applying data science techniques using Python
 - Demonstrated expertise in data manipulation, data visualization, statistical analysis, and machine learning algorithms using Python libraries such as NumPy, Pandas, matplotlib, and Scikit-learn
 - Implemented effective assessment methods to evaluate student’s progress and knowledge acquisition, providing constructive feedback for improvement
 
@@ -65,8 +65,6 @@
 - Contributed to the frontend design by providing necessary endpoints and functionalities for displaying uploadedimages and their corresponding generated captions.
 
 ### **Real-time live face emotion detection** 
-
-
 - Developed a real-time face emotion recognition system using deep learning and transfer learning techniques.
 - Utilized computer vision for image recognition and pre-processing to detect facial emotions.
 - Employed transfer learning in TensorFlow using the Mobnet v2 algorithm to capture and classify facial emotions
