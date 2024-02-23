@@ -10,6 +10,12 @@
                                                                                               
 
 ## **PROFESSIONAL EXPERIENCE** 
+**Data Science/AI – Engineer @ NeuroBurst Technology – Kochi, Kerala (Aug 2023 - present)**
+- Developed Construction Site Helmet Detection System, Camera-Based Truck Movement Management System and Rooftop Monitoring System for Employee Activity for a construction firm that increased the security and workflow of 
+  the construction sites.
+-	Developed dashboards for Sales Graph Analysis, Area Wise Medicine Tracking, Growth Analysis, Individual Medical Reps Sales for a pharmaceutical company resulting in 10% increase in sales and 30% reduction in overall 
+  work time.
+
 **Data Analyst Intern @ To-Let Globe – Lucknow, Uttar Pradesh (June 2023 – Dec 2023)**                                                                                                                     
 - Uncovered insights using Python, employing Pandas and NumPy and R for efficient data manipulation
 - Leveraged SQL to extract, filter, and aggregate data from databases, supporting decision-making processes
