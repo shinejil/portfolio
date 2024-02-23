@@ -16,7 +16,7 @@
 -	Developed dashboards for Sales Graph Analysis, Area Wise Medicine Tracking, Growth Analysis, Individual Medical Reps Sales for a pharmaceutical company resulting in 10% increase in sales and 30% reduction in overall 
   work time.
 
-**Data Analyst Intern @ To-Let Globe – Lucknow, Uttar Pradesh (June 2023 – Dec 2023)**                                                                                                                     
+**Data Analyst Intern @ To-Let Globe – Lucknow, Uttar Pradesh (June 2023 – Aug 2023)**                                                                                                                     
 - Uncovered insights using Python, employing Pandas and NumPy and R for efficient data manipulation
 - Leveraged SQL to extract, filter, and aggregate data from databases, supporting decision-making processes
 - Leveraged SQL to extract, filter, and aggregate data from databases, supporting decision-making processes
