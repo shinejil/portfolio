@@ -1,6 +1,6 @@
 # **DATA ANALYST/ DATA SCIENTIST**
 
-
+ 
 ## **EDUCATION/COURSES**
 - **Master of Science, Data Science** | Cochin University of Science and Technology (Oct 2021 – May 2023)  
 - **NLP Crash Course** | iNeuron (June 2023 – Oct 2023)
