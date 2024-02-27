@@ -1,4 +1,4 @@
-# **DATA ANALYST/ DATA SCIENTIST**
+# **DATA ANALYST**
 
  
 ## **EDUCATION/COURSES**
@@ -10,11 +10,9 @@
                                                                                               
 
 ## **PROFESSIONAL EXPERIENCE** 
-**Data Science/AI – Engineer @ NeuroBurst Technology – Kochi, Kerala (Aug 2023 - present)**
-- Developed Construction Site Helmet Detection System, Camera-Based Truck Movement Management System and Rooftop Monitoring System for Employee Activity for a construction firm that increased the security and workflow of 
-  the construction sites.
--	Developed dashboards for Sales Graph Analysis, Area Wise Medicine Tracking, Growth Analysis, Individual Medical Reps Sales for a pharmaceutical company resulting in 10% increase in sales and 30% reduction in overall 
-  work time.
+**Data Analyst – Engineer @ NeuroBurst Technology – Kochi, Kerala (Aug 2023 - present)**
+-	Developed dashboards for Sales Graph Analysis, Area Wise Medicine Tracking, Growth Analysis, Individual Medical Reps Sales for a pharmaceutical company resulting 
+  in 10% increase in sales and 30% reduction in overall work time.
 
 **Data Analyst Intern @ To-Let Globe – Lucknow, Uttar Pradesh (June 2023 – Aug 2023)**                                                                                                                     
 - Uncovered insights using Python, employing Pandas and NumPy and R for efficient data manipulation
@@ -27,7 +25,8 @@
 **Data Science and Python Instructor @ WISDEMY – Kochi, Kerala (part-time) (Jan 2023 – May 2023)**                                                                                                                           
 - Conducted engaging and interactive classroom sessions, effectively explaining data science topics and programming concepts to students
 - Developed hands-on exercises, assignments, and projects to provide practical experience in applying data science techniques using Python
-- Demonstrated expertise in data manipulation, data visualization, statistical analysis, and machine learning algorithms using Python libraries such as NumPy, Pandas, matplotlib, and Scikit-learn
+- Demonstrated expertise in data manipulation, data visualization, statistical analysis, and machine learning algorithms using Python libraries such as NumPy, 
+  Pandas, matplotlib, and Scikit-learn
 - Implemented effective assessment methods to evaluate student’s progress and knowledge acquisition, providing constructive feedback for improvement
 
 ## **PROJECTS**
@@ -39,7 +38,8 @@
 - Curated and processed a collection of medical PDF documents using LangChain's document loaders and textsplitting techniques.
 - Constructed a high-performance vector database using FAISS by extracting embeddings from the segmentedmedical texts, enhancing information retrieval efficiency.
 - Incorporated Hugging Face embeddings to generate meaningful text representations, optimizing queryprocessing and retrieval within the medical domain.
-- Engineered a sophisticated retrieval QA chain, leveraging language model capabilities and vector searchtechniques for contextually precise responses to medical inquiries.
+- Engineered a sophisticated retrieval QA chain, leveraging language model capabilities and vector searchtechniques for contextually precise responses to medical 
+  inquiries.
 - Customized the question-answering pipeline to adeptly handle diverse medical prompts and various query types,ensuring adaptability and usability for users.
 - Demonstrated strong proficiency in Python and utilization of specialized libraries like langchain, Hugging Face,FAISS, and Streamlit, empowering the NLP and machine learning aspects of the project.
 
