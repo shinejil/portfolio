@@ -10,7 +10,7 @@
                                                                                               
 
 ## **PROFESSIONAL EXPERIENCE** 
-**Data Analyst – Engineer @ NeuroBurst Technology – Kochi, Kerala (Aug 2023 - present)**
+**Data Analyst @ NeuroBurst Technology – Kochi, Kerala (Aug 2023 - present)**
 -	Developed dashboards for Sales Graph Analysis, Area Wise Medicine Tracking, Growth Analysis, Individual Medical Reps Sales for a pharmaceutical company resulting 
   in 10% increase in sales and 30% reduction in overall work time.
 
